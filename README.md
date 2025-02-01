@@ -56,7 +56,7 @@ The **E-commerce Sales Dashboard** enables:
 The **E-commerce Sales Analysis Dashboard** provides **interactive visualizations** to explore **sales trends, customer segmentation, and profitability insights**.
 
 ### **📌 Dashboard Screenshot**  
-![E-commerce Sales Dashboard](images/ecommerce_sales_dashboard.png)  
+![E-commerce Sales Dashboard](https://github.com/muralikrishna-v/Ecommerce-data-analysis/blob/main/ecommerce%20dashboard.png)  
 
 ### **📌 Key Insights & Visualizations**  
 
