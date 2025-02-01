@@ -64,7 +64,7 @@ The **E-commerce Sales Analysis Dashboard** provides **interactive visualization
 📈 **Visualization**: Area Chart  
 📌 **Insight**: Tracks **monthly sales fluctuations** to identify seasonal trends.  
 📊 **Key Finding**: Sales peaked in **November and December**, indicating **high holiday season demand**.  
-
+![E-commerce monthly sales trend]()  
 #### **2️⃣ Sales by Market Region**  
 📍 **Visualization**: Pie Chart  
 📌 **Insight**: Shows **regional sales distribution** and highlights **high-revenue markets**.  
